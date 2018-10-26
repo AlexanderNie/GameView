@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GameView</string>
+    <string name="greet">欢迎</string>
+</resources>
